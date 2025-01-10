@@ -62,7 +62,7 @@ I utilized Tableau to create a visual representation of the data.
 
 ### Snapshots
 
-![Age Distribution of Cars](age distributions of cars.png)
+![Age Distribution of Cars](picture1.png)
 
 
 A bar graph is shown with the count of the number of used cars with each bar representing the car’s age in years. The bars have been arranged in descending order of
