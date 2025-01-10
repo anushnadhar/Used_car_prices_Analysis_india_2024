@@ -64,7 +64,6 @@ I utilized Tableau to create a visual representation of the data.
 
 ![Age Distribution of Cars](picture1.png)
 
-
 A bar graph is shown with the count of the number of used cars with each bar representing the car’s age in years. The bars have been arranged in descending order of
 number of cars. Each bar is further coloured to detail the car’s ownership.
 
@@ -75,7 +74,7 @@ Observations:
 * Cars sold within 2-3 years of age are predominantly first-owner cars.
 * As the car age progresses to 5-9 years, a significant number of second-resale cars become available in the market.
 
-![Average Car Price vs. Month (when the car was posted)]
+![Average Car Price vs. Month (when the car was posted)](picture2.png)
 
 A line graph and corresponding trend line are shown to track the average price fluctuations over the range of months in 2024 in which the used cars were listed in the market.
 
@@ -83,7 +82,7 @@ Observations:
 * The trend line shows an upward trend, indicating a growing interest in high-end used cars in the Indian market.
 * Occasional fluctuations are observed, suggesting unpredictable seasonality in the market.
 
-![Age vs. Price]
+![Age vs. Price](picture3.png)
 
 Age in years on the Y axis and Price in millions on the X axis result in a scatterplot-like visual where the intensity of colour in a region would mean the concentration of
 maximum data points. A trend line is also given to highlight the falling trajectory.
@@ -94,7 +93,7 @@ Observations:
 * The scatter plot shows a concentration of points for cars aged less than 5 years, with average resale prices around 1-2 million rupees.
 * A few outliers exist, highlighting that luxury cars retain significant value due to their brand appeal, regardless of age.
 
-![Age vs. Price by Top Brands]
+![Age vs. Price by Top Brands](picture4.png)
 
 A vertical scatter plot in bars represents the top 10 costly brands in a range of ages up to 10 years, represented in varying shades of green and red (legend given). Since white is
 also a colour in the scheme chosen, the background colour was made grey for better legibility.
@@ -104,7 +103,7 @@ Observations:
 * The green shades are predominantly located in the lower part of the graph, further demonstrating the negative relationship between age and price.
 * Green spots in the top part of the graph highlight outliers, representing luxury brands that retain higher value despite their age.
 
-![Distribution of Cars by Fuel Type]
+![Distribution of Cars by Fuel Type](picture5.png)
 
 Donut chart created with colour differentiation for the different types of fuels used namely Diesel, Petrol and Hybrid/ CNG. The proportion of the donut chart shows the percentage 
 of total cars in each category of the fuel type. The data is filtered on the basis of Brand. In the above visualization, it is showing the proportions for a particular brand, Ford.
@@ -114,7 +113,7 @@ Observations:
 * This is because diesel offers better mileage than petrol, making it ideal for heavy use over long distances.
 * CNG is emerging as a newer, cleaner alternative and is slowly gaining traction among users.
 
-![DASHBOARD]
+![DASHBOARD](Dashboard.png)
 
 The visualizations have been neatly integrated into an interactive dashboard that allows users to filter by Fuel Type by toggling the keys at the top left, providing a more granular
 and focused view of the data. At the top of the dashboard, Key Performance Indicators (KPIs) are prominently displayed, offering an overview of critical metrics such as the
